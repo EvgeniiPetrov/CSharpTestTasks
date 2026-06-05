@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CSharpTestTasks.ConsoleApp/CSharpTestTasks.ConsoleApp.csproj" />
+    <Project Path="src/CSharpTestTasks.Core/CSharpTestTasks.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CSharpTestTasks.Tests/CSharpTestTasks.Tests.csproj" />
+  </Folder>
+</Solution>
